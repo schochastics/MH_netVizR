@@ -1,0 +1,5 @@
+project:
+  title: Network Visualization in R
+  type: default
+  render:
+    - index.qmd
